@@ -1,0 +1,9 @@
+{
+  "project_name": "Devine mon nombre",
+  "developer": "MartinicaMat",
+  "game_rules": {
+    "description": "Un jeu ou l'ordinateur doit deviner ton nombre en moins de 7 essais !",
+    "max_attempts": 7
+  },
+  "status": "Beta"
+}
